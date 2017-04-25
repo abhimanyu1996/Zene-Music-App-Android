@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zene</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "About Us\n\nA BIG HI from the developers - Abhimanyu Kapil and Priyanjul Johari..!\n\n Zene, the music player is our first app(perhaps this is the reason why it's quite buggy ;P ).\n\nZene, the music player is an app for those who enjoy thebeauty of simplicity. One won't find everything in our app but still adequate features have been provided.\n\nHope you'll enjoy listening to your with Zene.\n\n\n\nContact us:\n\nANHIMANYU KAPIL:\nemail id:abhimanyu1996@gmail.com\ncontact no.:9805047795\n\nPRIYANJUL JOHARI:\nemail id:priyanjul5302@gmail.com\ncontact no.:9805052476"
+    </string>
+</resources>
